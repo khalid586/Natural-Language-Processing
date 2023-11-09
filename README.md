@@ -10,7 +10,7 @@ There are three types of techniques that are used in natural language processing
 
 # Regular Expression
 
-```
+```py
 import re
 
 chat1='codebasics: Hello, I am having an issue with my order # 412889912'
@@ -25,7 +25,8 @@ print(matches)
 <br><br>
 
 
-```
+```py
+
 text='''
 Born	Elon Reeve Musk
 June 28, 1971 (age 50)
@@ -56,7 +57,7 @@ def get_pattern_match(pattern , text):
         return matches[0]
 
 
-print(get_pattern_match(r'Born.*\n(.*)\(age', text).strip()))
+print(get_pattern_match(r'Born.*\n(.*)\(age', text).strip())
 ```
 
 >The code above extracts the date of birth.
