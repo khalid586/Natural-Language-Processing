@@ -2,7 +2,7 @@
 There are three types of techniques that are used in natural language processing (on a broader aspect).
 
 - [Heuristics & Rules (Regular Expression)](#Regular-Expression)
-- Machine Learning
+- Machine Learning **(text classification or spam detection)**
 - Deep Learning
     - Sentence Embedding
 
