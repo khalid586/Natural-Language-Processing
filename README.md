@@ -1,7 +1,8 @@
 # Natural-Language-Processing
-There are three types of techniques that are used in natural language processing (on a broader aspect).
-
 > You will find the reference [**here**](https://youtu.be/nknYY32RGXQ?si=taKCV2td8PM1luEl)
+
+
+There are three types of techniques that are used in natural language processing (on a broader aspect).
 
 - [Heuristics & Rules (Regular Expression)](#Regular-Expression)
 - Machine Learning **(text classification or spam detection)**
