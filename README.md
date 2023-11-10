@@ -2,6 +2,7 @@
 
 <h1 align = "center"> Natural Language Processing </h1>
 
+<br>
 
 ## Types of NLP implementation
 > You will find the reference [**here**](https://youtu.be/nknYY32RGXQ?si=taKCV2td8PM1luEl)
