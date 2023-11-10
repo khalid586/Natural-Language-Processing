@@ -122,5 +122,8 @@ print(get_pattern_match(r'Born.*\n(.*)\(age', text).strip())
         - Statistical Model
         - Neural Model
 1. Text summarization
+    - Example : Scispace 
 1. Topic Modeling (Retrieve topics from data)
+    - Example : Google News
 1. Voice assistant
+    - Example : Alexa , Siri
