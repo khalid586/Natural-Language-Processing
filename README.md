@@ -80,3 +80,47 @@ print(get_pattern_match(r'Born.*\n(.*)\(age', text).strip())
 ```
 
 >The code above extracts the **date of birth** from the given text.
+
+<br>
+
+## Tasks performed using NLP
+> You will find the reference [**here**](https://youtu.be/In7jB8TUGPA?si=3ABtO_tjCaRyiFVU) 
+
+
+1. Text classification
+    - Example
+        - Facebook's hate speech detection 
+        - Complaint severity detection in big companies
+1. Text similarity
+    - Example
+        - Resume shortlisting
+    - Technique used
+        - Cosine similarity
+1. Information extraction
+    - Example
+        - Google News
+1. Information retrieval
+    - Example
+        - Google search engine's website listing
+    - Technique used
+        - TFIDF score
+        - BERT
+1. Chat Bot
+    - Types
+        - FAQ chatbot
+        - Flow based bot
+        - Open-ended bot
+1. Machine translation
+    - Example
+        - Google translation
+    - Technique used
+        - Encoder/Decoder architecture of RNN
+1. Language Modeling
+    - Example
+        - Auto completion of gmail
+    - Techniques used
+        - Statistical Model
+        - Neural Model
+1. Text summarization
+1. Topic Modeling (Retrieve topics from data)
+1. Voice assistant
