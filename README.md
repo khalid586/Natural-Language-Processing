@@ -1,6 +1,9 @@
 ![](https://www.searchenginejournal.com/wp-content/uploads/2020/08/an-introduction-to-natural-language-processing-with-python-for-seos-5f3519eeb8368-1520x800.webp)
 
-# Natural Language Processing
+<h1 align = "center"> Natural Language Processing </h1>
+
+
+## Types of NLP implementation
 > You will find the reference [**here**](https://youtu.be/nknYY32RGXQ?si=taKCV2td8PM1luEl)
 
 
