@@ -29,7 +29,7 @@ pattern = 'order[^\d]*(\d*)'
 matches = re.findall(pattern, chat1)
 print(matches)
 
-// output: 412889912
+# output: 412889912
 ```
 
 >The code above extracts the **order number** from the given text.
@@ -74,7 +74,7 @@ def get_pattern_match(pattern , text):
 
 print(get_pattern_match(r'Born.*\n(.*)\(age', text).strip())
 
-// output: June 28, 1971
+# output: June 28, 1971
 ```
 
 >The code above extracts the **date of birth** from the given text.
