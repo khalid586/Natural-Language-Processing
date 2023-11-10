@@ -1,6 +1,8 @@
 # Natural-Language-Processing
 There are three types of techniques that are used in natural language processing (on a broader aspect).
 
+> You will find the reference [**here**](https://youtu.be/nknYY32RGXQ?si=taKCV2td8PM1luEl)
+
 - [Heuristics & Rules (Regular Expression)](#Regular-Expression)
 - Machine Learning **(text classification or spam detection)**
 - Deep Learning
@@ -9,6 +11,8 @@ There are three types of techniques that are used in natural language processing
 <br><br>
 
 # Regular Expression
+
+> You will find the reference [**here**](https://youtu.be/lK9gx4q_vfI?si=pUV4357oRl6Qehfl) 
 
 ```py
 import re
